@@ -1,0 +1,44 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+  background-image: url("https://media.istockphoto.com/id/478177212/photo/water-drop-texture-on-blue-background.jpg?b=1&s=170667a&w=0&k=20&c=NHA9B6s_5K7h-dp42_VGzdf5IUBR2gLMzOr3v8ixPyA=");
+}
+
+
+h1 {
+  margin: 30px;
+  font-family: 'Fondamento', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #FF8B13;
+}
+
+p {
+  font-size: 2rem;
+  color: #1A120B;
+font-family: 'Merriweather', serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color:#1A120B;
+  text-align: center;
+  font-family: 'Cookie', cursive;
+  font-size:4rem;
+
+}
